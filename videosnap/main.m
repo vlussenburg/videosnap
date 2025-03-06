@@ -40,7 +40,7 @@ void SIGSTP_handler(int signum) {
  */
 int main(int argc, const char * argv[]) {
 	isInterrupted = NO;
-	
+	// change!
 	// setup int handlers
     // Ctrl+C cancels
     // Ctrl+Z pause/resume

@@ -1,4 +1,7 @@
+
+
 # VideoSnap
+
 
 VideoSnap is an macOS command line tool for recording video and audio from any
 attached capture device (including screen capture from connected iOS devices).
